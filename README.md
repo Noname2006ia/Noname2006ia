@@ -76,8 +76,7 @@ interesses:
   <tr>
     <td width="50%">
       <a href=https://github.com/Noname2006ia/Jonathan-Joestar-Kau-Cabral-.git>
-        <img src=<img width="300" height="400" alt="images" src="https://github.com/user-attachments/assets/3153855a-cc2a-4772-9a03-ac7b21d667f4" />
-"/>
+        <img src="https://liberproeliis.fandom.com/pt-br/wiki/Jonathan_Joestar"/>
       </a>
     </td>
     <td width="50%">
