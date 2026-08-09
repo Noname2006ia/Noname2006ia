@@ -99,7 +99,6 @@ interesses:
   </tr>
 </table>
 
-<sub>💡 Substitua <code>projeto-1</code>, <code>projeto-2</code>... pelos nomes reais dos seus repositórios.</sub>
 
 </div>
 
