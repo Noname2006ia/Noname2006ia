@@ -53,7 +53,7 @@ interesses:
 <div align="center">
 
 ### ⚡ Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,java,,cpp&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,java,php,cpp&theme=dark" /><br/><br/>
 
 ### ⚙️ Frameworks & Bibliotecas
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,bootstrap,flutter&theme=dark" /><br/><br/>
