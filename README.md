@@ -26,7 +26,7 @@
 
 ```yaml
 identidade:
-  nome: "Kaua"
+  nome: "Kaua Cabral"
   classe: "Engenheiro De Software"
   localizacao: "Brasil, RJ"
   status_atual: "Aprendendo, quebrando e consertando código"
@@ -76,7 +76,7 @@ interesses:
   <tr>
     <td width="50%">
       <a href=https://github.com/Noname2006ia/Jonathan-Joestar-Kau-Cabral-.git>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto-1&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=00F0FF"/>
+        <img src="https://deathbattle.miraheze.org/wiki/Jonathan_Joestar"/>
       </a>
     </td>
     <td width="50%">
