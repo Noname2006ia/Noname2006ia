@@ -27,10 +27,10 @@
 ```yaml
 identidade:
   nome: "Kaua"
-  classe: "Full Stack Developer"
+  classe: "Engenheiro De Software"
   localizacao: "Brasil, RJ"
   status_atual: "Aprendendo, quebrando e consertando código"
-  arquétipo: "Stand User // JARVIS Protocol"
+  arquétipo: "Nerd Cinéfilo"
 
 filosofia:
   - "Código limpo é um Stand poderoso."
@@ -40,7 +40,7 @@ filosofia:
 interesses:
   - "Inteligência Artificial"
   - "Arquitetura de Software"
-  - "Interfaces futuristas / UI Design"
+  - "Back-end"
   - "Anime & Storytelling (JoJo's Bizarre Adventure 🌟)"
 ```
 
