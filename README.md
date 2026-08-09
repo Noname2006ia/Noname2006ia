@@ -76,7 +76,8 @@ interesses:
   <tr>
     <td width="50%">
       <a href=https://github.com/Noname2006ia/Jonathan-Joestar-Kau-Cabral-.git>
-        <img src="https://deathbattle.miraheze.org/wiki/Jonathan_Joestar"/>
+        <img src=<img width="300" height="400" alt="images" src="https://github.com/user-attachments/assets/3153855a-cc2a-4772-9a03-ac7b21d667f4" />
+"/>
       </a>
     </td>
     <td width="50%">
