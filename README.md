@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== BANNER PRINCIPAL ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:0d1117&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=INITIALIZING%20PROFILE%20//%20KAUA.EXE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:0d1117&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=INITIALIZING%20PROFILE%20//%20KAUA CABRAL.EXE&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="#">
