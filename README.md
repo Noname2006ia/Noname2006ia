@@ -33,9 +33,9 @@ identidade:
   arquétipo: "Nerd Cinéfilo"
 
 filosofia:
-  - "Código limpo é um Stand poderoso."
-  - "Cada bug é apenas um vilão esperando ser derrotado."
-  - "'Sua próxima linha de código já era necessária desde o início' — não, peraí, isso é outra franquia."
+  - "A existência precede a essencia."
+  - "Que tal imaginar o Sisifo feliz?."
+  - "Quando você olha para o abismo, o abismo olha de volta para você."
 
 interesses:
   - "Inteligência Artificial"
