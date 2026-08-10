@@ -35,13 +35,13 @@ identidade:
 filosofia:
   - "A existência precede a essencia."
   - "Que tal imaginar o Sisifo feliz?."
-  - "Quando você olha para o abismo, o abismo olha de volta para você."
+  - "Conheça a ti mesmo."
 
 interesses:
   - "Inteligência Artificial"
   - "Arquitetura de Software"
   - "Back-end"
-  - "Anime & Storytelling (JoJo's Bizarre Adventure 🌟)"
+  - "Filosofia dentro da Engenharia"
 ```
 
 <br clear="right"/>
