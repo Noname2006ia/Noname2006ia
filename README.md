@@ -26,7 +26,7 @@
 
 ```yaml
 identidade:
-  nome: "Kaua Cabral"
+  nome: "Kaua Cabral Silva"
   classe: "Engenheiro De Software"
   localizacao: "Brasil, RJ"
   status_atual: "Aprendendo, quebrando e consertando código"
